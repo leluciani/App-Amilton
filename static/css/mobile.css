@@ -102,16 +102,33 @@
     top: 0px;
     left: 102px;
     font-family: 'Open Sans', sans-serif;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 
 .af{
     position: absolute;
-    top: 6px;
+    top: 2px;
     left: 102px;
     width: 265px;
     font-size: 12px;
+}
+
+.atenc_{
+    position: absolute;
+    top: 48px;
+    left: 102px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;  
+    color: #131413; 
+}
+.corp_{
+    position: absolute;
+    top: 62px;
+    left: 102px;
+    width: 750px;
+    font-size: 12px; 
+    font-family: 'Roboto', sans-serif;
 }
 
 .rh-3{
@@ -132,10 +149,27 @@
 
 .af-1{
     position: absolute;
-    top: 113px;
+    top: 109px;
     left: 102px;
     width: 265px;
     font-size: 12px;
+}
+
+.atenc_1{
+    position: absolute;
+    top: 155px;
+    left: 102px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;  
+    color: #131413; 
+}
+.corp_1{
+    position: absolute;
+    top: 170px;
+    left: 102px;
+    width: 750px;
+    font-size: 12px; 
+    font-family: 'Roboto', sans-serif;
 }
 
 .rh-4{
@@ -161,7 +195,7 @@
     top: 217px;
     left: 102px;
     font-family: 'Open Sans', sans-serif;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 
@@ -196,7 +230,7 @@
     top: 106px;
     left: 102px;
     font-family: 'Open Sans', sans-serif;
-    font-size: 15px;
+    font-size: 12px;
 }
 .af-3{
     position: absolute;
@@ -654,3 +688,149 @@ z-index: 1000;
     background-color: #535353;
     border: 1px #e9e8e8 solid;
 }
+
+
+#linha-vertical{
+    position: absolute;
+    top: 10px;
+    height: 30px;
+    right: 45px;
+    border-right: 0.5px solid rgb(189, 185, 185);
+ 
+ }
+ 
+ .avaliacao{
+     display: flex;
+     position: absolute;
+     top: 264px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ 
+ .avaliacao_2{
+     display: flex;
+     position: absolute;
+     top: 373px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ .avaliacao_3{
+     display: flex;
+     position: absolute;
+     top: 482px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ 
+ .avaliacao_4{
+     display: flex;
+     position: absolute;
+     top: 590px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ .avaliacao_5{
+     display: flex;
+     position: absolute;
+     top: 700px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ .avaliacao_6{
+     display: flex;
+     position: absolute;
+     top: 810px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ 
+ .avaliacao_7{
+     display: flex;
+     position: absolute;
+     top: 920px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ 
+ .avaliacao_8{
+     display: flex;
+     position: absolute;
+     top: 1032px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ 
+ .avaliacao_9{
+     display: flex;
+     position: absolute;
+     top: 1142px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ .avaliacao_10{
+     display: flex;
+     position: absolute;
+     top: 1252px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ 
+ .avaliacao_11{
+     display: flex;
+     position: absolute;
+     top: 1362px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ 
+ .avaliacao_12{
+     display: flex;
+     position: absolute;
+     top: 1472px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ 
+ .avaliacao_13{
+     display: flex;
+     position: absolute;
+     top: 1581px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ 
+ .avaliacao_14{
+     display: flex;
+     position: absolute;
+     top: 1693px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ 
+ .avaliacao_15{
+     display: flex;
+     position: absolute;
+     top: 1801px;
+     left: 60px;
+     font-size: 1.2em;
+        }
+ .star-icon{
+     list-style-type:none;
+     cursor: pointer;
+     color: #ffb006;
+        }
+ 
+ .star-icon::before{
+     content: "\2605";
+        }
+ 
+ .star-icon.ativo ~ .star-icon::before{
+     content: "\2606";
+        }
+ .avaliacao:hover .star-icon::before{
+     content: "\2605";
+        }
+ 
+ .star-icon:hover ~ .star-icon::before{
+     content: "\2606";
+        }
