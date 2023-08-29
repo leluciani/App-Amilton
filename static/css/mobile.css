@@ -871,19 +871,20 @@ z-index: 1000;
 
 .search-box{
     position: absolute;
-    top: 150px;
-    left: 230px;
-    background: rgb(231, 230, 230);
+    top: 130px;
+    left: 115px;
+    background: rgb(255, 253, 253);
     height: 36px;
-    width: 130px;
-    border-radius: 30px;
+    width: 150px;
+    border-radius: 5px;
+    margin-right: 500px;
     
 }
 
 .searce-text{
     position: absolute;
-    top: 150px;
-    left: 240px;
+    top: 130px;
+    left: 120px;
     box-shadow: 0 0 0 0;
     background: none;
     border: none;
@@ -898,7 +899,7 @@ z-index: 1000;
 .lupa-azul{
     position: absolute;
     top: 6px;
-    left: 100px;
+    right: 5px;
     width: 21px;
     height: 21px;
 }
@@ -914,9 +915,9 @@ z-index: 1000;
 
 #linha-vertical{
     position: absolute;
-    top: 10px;
-    height: 30px;
-    right: 45px;
+    top: 5px;
+    height: 25px;
+    right: 30px;
     border-right: 0.5px solid rgb(189, 185, 185);
  
          }
