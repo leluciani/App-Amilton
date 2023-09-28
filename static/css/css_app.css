@@ -31,12 +31,13 @@
 }
 
 
-.certo{
-    width:18px;
-    height: 20px;
+.ult{
+    width:332px;
+    height: 263px;
     position: absolute;
-    top: 383px;
-    left: 632px;
+    top: 325px;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 
@@ -63,7 +64,7 @@
 
 #product{
     position: absolute;
-    top: 425px;
+    top: 454px;
     border-radius: 5px;
     width: 330px;
     height: 21px;
@@ -86,9 +87,6 @@
 }
 
 
-#part-galeria{
-margin: 50px;    
-}
 .rh-2{
 
     width: 896px;
