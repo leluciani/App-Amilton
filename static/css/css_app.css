@@ -1,7 +1,7 @@
 #parte{
     background-color: #38280a;
     border: none;
-    width:1366px;
+    width:100%;
     height: 98px;
     position: fixed;
     top: 0px;
@@ -12,7 +12,7 @@
 #parte2{
     background-color: #38280a;
     border: none;
-    width:1350px;
+    width:99%;
     height: 98px;
     position: fixed;
     top: 0px;
@@ -23,7 +23,7 @@
 #parte3{
     background-color: #f1f0ef;
     border: none;
-    width:1350px;
+    width:100%;
     height: 350px;
     position: absolute;
     top: 3500px;
@@ -36,30 +36,21 @@
     width: 270px;
     height: 300px;
     position: absolute;
-    top: 279px;
+    top:309px;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
 
 .ult{
-    width:332px;
+    width:337px;
     height: 263px;
     position: absolute;
-    top: 325px;
+    top: 358px;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
-
-#medida{
-    position: absolute;
-    top: 373px;
-    left: 657px;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 0.8em;
-    color: rgb(144, 143, 142);
-}
 
 #prody{
     color: rgb(58, 140, 233);
@@ -75,9 +66,9 @@
 
 #product{
     position: absolute;
-    top: 454px;
+    top: 490px;
     border-radius: 5px;
-    width: 330px;
+    width: 340px;
     height: 21px;
     background-color: #9b6e3a;
     left: 50%;
@@ -108,7 +99,7 @@
 
 .rh-2{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 147px;
     left: 237px;
@@ -137,7 +128,7 @@
     position: absolute;
     top: 180px;
     left: 420px;
-    width: 750px;
+    width: 730px;
     font-family: 'Roboto', sans-serif;
 
 }
@@ -159,14 +150,14 @@
 .avaliacao{
     display: flex;
     position: absolute;
-    top: 273px;
+    top: 282px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 
 .rh-3{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 360px;
     left: 237px;
@@ -184,9 +175,9 @@
 
 .af-1{
     position: absolute;
-    top: 400px;
+    top: 397px;
     left: 420px;
-    width: 740px;
+    width: 730px;
     font-family: 'Roboto', sans-serif;
 }
 .atenc_1{
@@ -208,14 +199,14 @@
 .avaliacao_2{
     display: flex;
     position: absolute;
-    top: 490px;
+    top: 498px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 
 .rh-4{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 573px;
     left: 237px;
@@ -226,9 +217,9 @@
 .avaliacao_3{
     display: flex;
     position: absolute;
-    top: 702px;
+    top: 714px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 
 .img3{
@@ -276,7 +267,7 @@
 
 .rh-5{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 786px;
     left: 237px;
@@ -305,7 +296,7 @@
     position: absolute;
     top: 820px;
     left: 420px;
-    width: 740px;
+    width: 730px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -328,9 +319,9 @@
 .avaliacao_4{
     display: flex;
     position: absolute;
-    top: 914px;
+    top: 925px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 
 .feature-title-03{
@@ -345,7 +336,7 @@
 
 .rh-6{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 999px;
     left: 237px;
@@ -376,7 +367,7 @@
     position: absolute;
     top: 1035px;
     left: 420px;
-    width: 740px;
+    width: 730px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -390,7 +381,7 @@
 }
 .corp_4{
     position: absolute;
-    top: 1120px;
+    top: 1118px;
     left: 420px;
     width: 750px;
     font-family: 'Roboto', sans-serif;
@@ -399,13 +390,13 @@
 .avaliacao_5{
     display: flex;
     position: absolute;
-    top: 1127px;
+    top: 1138px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 .rh-7{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 1212px;
     left: 237px;
@@ -436,7 +427,7 @@
     position: absolute;
     top: 1248px;
     left: 420px;
-    width: 740px;
+    width: 730px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -459,14 +450,14 @@
 .avaliacao_6{
     display: flex;
     position: absolute;
-    top: 1340px;
+    top: 1352px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 
 .rh-8{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 1425px;
     left: 237px;
@@ -497,7 +488,7 @@
     position: absolute;
     top: 1461px;
     left: 420px;
-    width: 740px;
+    width: 730px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -520,13 +511,13 @@
 .avaliacao_7{
     display: flex;
     position: absolute;
-    top: 1553px;
+    top: 1565px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 .rh-9{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 1638px;
     left: 237px;
@@ -578,13 +569,13 @@
 .avaliacao_8{
     display: flex;
     position: absolute;
-    top: 1766px;
+    top: 1778px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 .rh-10{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 1851px;
     left: 237px;
@@ -614,7 +605,7 @@
     position: absolute;
     top: 1887px;
     left: 420px;
-    width: 720px;
+    width: 730px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -636,14 +627,14 @@
 .avaliacao_9{
     display: flex;
     position: absolute;
-    top: 1979px;
+    top: 1991px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 
 .rh-11{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 2064px;
     left: 237px;
@@ -674,7 +665,7 @@
     position: absolute;
     top: 2100px;
     left: 420px;
-    width: 710px;
+    width: 730px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -697,13 +688,13 @@
 .avaliacao_10{
     display: flex;
     position: absolute;
-    top: 2192px;
+    top: 2204px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 .rh-12{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 2277px;
     left: 237px;
@@ -757,13 +748,13 @@
 .avaliacao_11{
     display: flex;
     position: absolute;
-    top: 2405px;
+    top: 2417px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 .rh-13{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 2490px;
     left: 237px;
@@ -794,7 +785,7 @@
     position: absolute;
     top: 2530px;
     left: 420px;
-    width: 740px;
+    width: 730px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -817,14 +808,14 @@
 .avaliacao_12{
     display: flex;
     position: absolute;
-    top: 2618px;
+    top: 2630px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 
 .rh-14{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 2703px;
     left: 237px;
@@ -878,14 +869,14 @@
 .avaliacao_13{
     display: flex;
     position: absolute;
-    top: 2831px;
+    top: 2843px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 
 .rh-15{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 2916px;
     left: 237px;
@@ -916,7 +907,7 @@
     position: absolute;
     top: 2952px;
     left: 420px;
-    width: 720px;
+    width: 730px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -939,13 +930,13 @@
 .avaliacao_14{
     display: flex;
     position: absolute;
-    top: 3044px;
+    top: 3056px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 .rh-16{
     height: 190px;
-    width: 896px;
+    width: 940px;
     position: absolute;
     top: 3129px;
     left: 237px;
@@ -976,7 +967,7 @@
     position: absolute;
     top: 3163px;
     left: 420px;
-    width: 740px;
+    width: 730px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -999,9 +990,9 @@
 .avaliacao_15{
     display: flex;
     position: absolute;
-    top: 3257px;
+    top: 3269px;
     left: 374px;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 
 .whats{
@@ -1121,4 +1112,10 @@ z-index: 1000;
 .rod{
     position: absolute;
     
+}
+
+.p1{
+
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
 }
