@@ -24,9 +24,9 @@
     background-color: #f1f0ef;
     border: none;
     width:100%;
-    height: 330px;
+    height: 320px;
     position: absolute;
-    top: 3500px;
+    top: 3520px;
     left: 0px;
     
 }
@@ -156,9 +156,9 @@
 }
 .cred1{
     position: absolute;
-    top: 280px;
-    height:60px;
-    width: 70px;
+    top: 274px;
+    height:57px;
+    width: 67px;
     left: 997px;
 }
 
@@ -220,9 +220,9 @@
 }
 .cred2{
     position: absolute;
-    top: 493px;
-    height:60px;
-    width: 70px;
+    top: 487px;
+    height:57px;
+    width: 67px;
     left: 997px;
 }
 
@@ -295,9 +295,9 @@
 }
 .cred3{
     position: absolute;
-    top: 706px;
-    height:60px;
-    width: 70px;
+    top: 700px;
+    height:57px;
+    width: 67px;
     left: 997px;
 }
 
@@ -1362,19 +1362,28 @@ z-index: 1000;
 }
 
 .inst{
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
     position: absolute;
-    top: 90px;
-    left: 620px;
+    top: 77px;
+    left: 580px;
     border-radius: 10px;
 }
 
 .face{
-    height: 64px;
-    width: 64px;
+    height: 54px;
+    width: 54px;
     position: absolute;
-    top: 87px;
-    left: 770px;
+    top: 75px;
+    left: 700px;
+    border-radius: 10px;
+}
+
+.you{
+    height: 57px;
+    width: 57px;
+    position: absolute;
+    top: 75px;
+    left: 820px;
     border-radius: 10px;
 }
