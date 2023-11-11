@@ -12,7 +12,7 @@
 #parte2{
     background-color: #38280a;
     border: none;
-    width:99%;
+    width:98.7%;
     height: 98px;
     position: fixed;
     top: 0px;
@@ -154,6 +154,21 @@
     left: 374px;
     font-size: 1.2em;
 }
+.cred1{
+    position: absolute;
+    top: 280px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix1{
+    position: absolute;
+    top: 292px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
 
 .rh-3{
     height: 190px;
@@ -203,6 +218,21 @@
     left: 374px;
     font-size: 1.2em;
 }
+.cred2{
+    position: absolute;
+    top: 493px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix2{
+    position: absolute;
+    top: 505px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
 
 .rh-4{
     height: 190px;
@@ -212,14 +242,6 @@
     left: 237px;
     border: 1px solid #cfd3cf;
     border-radius: 10px;
-}
-
-.avaliacao_3{
-    display: flex;
-    position: absolute;
-    top: 714px;
-    left: 374px;
-    font-size: 1.2em;
 }
 
 .img3{
@@ -263,6 +285,35 @@
     left: 420px;
     width: 750px;
     font-family: 'Roboto', sans-serif;
+}
+.avaliacao_3{
+    display: flex;
+    position: absolute;
+    top: 714px;
+    left: 374px;
+    font-size: 1.2em;
+}
+.cred3{
+    position: absolute;
+    top: 706px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix3{
+    position: absolute;
+    top: 718px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
+.aceit3{
+    position: absolute;
+    top: 713px;
+    left: 915px;
+    font-family: 'Barlow Condensed', sans-serif;
+    
 }
 
 .rh-5{
@@ -322,6 +373,28 @@
     top: 925px;
     left: 374px;
     font-size: 1.2em;
+}
+.cred4{
+    position: absolute;
+    top: 919px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix4{
+    position: absolute;
+    top: 931px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
+.aceit4{
+    position: absolute;
+    top: 926px;
+    left: 915px;
+    font-family: 'Barlow Condensed', sans-serif;
+    
 }
 
 .feature-title-03{
@@ -394,6 +467,21 @@
     left: 374px;
     font-size: 1.2em;
 }
+.cred5{
+    position: absolute;
+    top: 1132px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix5{
+    position: absolute;
+    top: 1144px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
 .rh-7{
     height: 190px;
     width: 940px;
@@ -453,6 +541,22 @@
     top: 1352px;
     left: 374px;
     font-size: 1.2em;
+}
+
+.cred6{
+    position: absolute;
+    top: 1345px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix6{
+    position: absolute;
+    top: 1357px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
 }
 
 .rh-8{
@@ -515,6 +619,21 @@
     left: 374px;
     font-size: 1.2em;
 }
+.cred7{
+    position: absolute;
+    top: 1558px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix7{
+    position: absolute;
+    top: 1570px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
 .rh-9{
     height: 190px;
     width: 940px;
@@ -573,6 +692,21 @@
     left: 374px;
     font-size: 1.2em;
 }
+.cred8{
+    position: absolute;
+    top: 1771px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix8{
+    position: absolute;
+    top: 1783px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
 .rh-10{
     height: 190px;
     width: 940px;
@@ -630,6 +764,21 @@
     top: 1991px;
     left: 374px;
     font-size: 1.2em;
+}
+.cred9{
+    position: absolute;
+    top: 1984px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix9{
+    position: absolute;
+    top: 1996px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
 }
 
 .rh-11{
@@ -692,6 +841,21 @@
     left: 374px;
     font-size: 1.2em;
 }
+.cred10{
+    position: absolute;
+    top: 2197px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix10{
+    position: absolute;
+    top: 2209px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
 .rh-12{
     height: 190px;
     width: 940px;
@@ -751,6 +915,21 @@
     top: 2417px;
     left: 374px;
     font-size: 1.2em;
+}
+.cred11{
+    position: absolute;
+    top: 2410px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix11{
+    position: absolute;
+    top: 2422px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
 }
 .rh-13{
     height: 190px;
@@ -812,7 +991,21 @@
     left: 374px;
     font-size: 1.2em;
 }
+.cred12{
+    position: absolute;
+    top: 2623px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
 
+.pix12{
+    position: absolute;
+    top: 2422px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
 .rh-14{
     height: 190px;
     width: 940px;
@@ -873,7 +1066,21 @@
     left: 374px;
     font-size: 1.2em;
 }
+.cred13{
+    position: absolute;
+    top: 2623px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
 
+.pix13{
+    position: absolute;
+    top: 2635px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
 .rh-15{
     height: 190px;
     width: 940px;
@@ -934,6 +1141,21 @@
     left: 374px;
     font-size: 1.2em;
 }
+.cred14{
+    position: absolute;
+    top: 2836px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix14{
+    position: absolute;
+    top: 2848px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
 .rh-16{
     height: 190px;
     width: 940px;
@@ -993,6 +1215,36 @@
     top: 3269px;
     left: 374px;
     font-size: 1.2em;
+}
+.cred15{
+    position: absolute;
+    top: 3049px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix15{
+    position: absolute;
+    top: 3061px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
+}
+.cred16{
+    position: absolute;
+    top: 3262px;
+    height:60px;
+    width: 70px;
+    left: 997px;
+}
+
+.pix16{
+    position: absolute;
+    top: 3274px;
+    height:30px;
+    width: 60px;
+    left: 1070px;
 }
 
 .whats{
@@ -1109,13 +1361,20 @@ z-index: 1000;
     left: 17.5%;
 }
 
-.rod{
+.inst{
+    height: 60px;
+    width: 60px;
     position: absolute;
-    
+    top: 90px;
+    left: 620px;
+    border-radius: 10px;
 }
 
-.p1{
-
+.face{
+    height: 64px;
+    width: 64px;
     position: absolute;
-    font-family: 'Roboto', sans-serif;
+    top: 87px;
+    left: 770px;
+    border-radius: 10px;
 }
