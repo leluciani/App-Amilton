@@ -12,7 +12,7 @@
 #parte2{
     background-color: #38280a;
     border: none;
-    width:98%;
+    width:99%;
     height: 98px;
     position: fixed;
     top: 0px;
@@ -1302,7 +1302,6 @@ z-index: 1000;
     border: 1px #e9e8e8 solid;
 }
 
-
 .star-icon{
     list-style-type:none;
     cursor: pointer;
@@ -1348,7 +1347,7 @@ z-index: 1000;
     width: 37px;
     position: absolute;
     top: 2350px;
-    left: 175px;
+    left: 170px;
     border-radius: 10px;
 }
 
@@ -1357,7 +1356,7 @@ z-index: 1000;
     width: 41px;
     position: absolute;
     top: 2350px;
-    left: 280px;
+    left: 275px;
     border-radius: 10px;
 }
 
